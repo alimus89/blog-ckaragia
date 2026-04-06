@@ -1,16 +1,56 @@
 ---
-title: "Second post"
-description: "Lorem ipsum dolor sit amet"
-pubDate: "Jul 15 2022"
-heroImage: "/blog-placeholder-4.jpg"
+title: "Volos: Where Myth Meets the Sea"
+description: "Discover Volos — a vibrant port city at the foot of mythical Mount Pelion, blending ancient legends with modern Greek life."
+pubDate: "Apr 02 2026"
+heroImage: "/volos.jpg"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+Volos is the sixth-largest city in Greece, nestled around the **Pagasetic Gulf** in the region of Thessaly. According to Greek mythology, it was from this very harbour that **Jason and the Argonauts** set sail aboard the Argo in their quest for the Golden Fleece. Today the city thrives as a commercial port, a university town, and a gateway to the enchanting villages of **Mount Pelion**.
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+## Geography and Climate
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
+Volos sits at the inner-most point of the Pagasetic Gulf, backed by Mount Pelion to the east and the Thessalian plain to the west. The sheltered bay gives the city a mild Mediterranean climate:
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id cursus metus aliquam eleifend mi.
+| Season | Avg. High | Character |
+| ------ | --------- | --------- |
+| Spring | 20 °C | Mild, wildflowers on Pelion |
+| Summer | 33 °C | Hot, lively waterfront |
+| Autumn | 22 °C | Warm sea, olive harvest |
+| Winter | 10 °C | Cool, snow on Pelion peaks |
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
+The **Sporades islands** — Skiathos, Skopelos, and Alonnisos — are reached by ferry directly from Volos port.
+
+## Ancient Roots
+
+Archaeological excavations at nearby **Dimini** and **Sesklo** revealed two of the oldest Neolithic settlements in Europe, dating to roughly 6000 BC. The ancient cities of **Demetrias** and **Iolkos** (seat of Jason's kingdom) once stood where Volos now spreads.
+
+> Volos is built partly on the site of ancient Iolkos, the homeland of Jason and the Argonauts.
+> — <cite>Wikipedia, "Volos"</cite>
+
+## The Modern City
+
+Volos was largely rebuilt after the devastating **1955 earthquakes**, giving it a planned, modernist character uncommon in Greek cities. Key landmarks include:
+
+- **The Archaeological Museum of Volos**, housing painted Neolithic stelae unique in Europe
+- **The waterfront promenade** (_paralia_), stretching for kilometres along the gulf
+- **Anavros Park**, a seaside green space popular for evening strolls
+- **The University of Thessaly**, founded in 1984, with engineering and humanities faculties
+
+## Tsipouro Culture
+
+No visit to Volos is complete without experiencing its famous **tsipouradika** — small tavernas where rounds of _tsipouro_ (a potent grape spirit) are accompanied by complimentary plates of _mezedes_. The custom is deeply social:
+
+1. You order a carafe of tsipouro (with or without anise)
+2. The waiter brings a small plate of seafood or seasonal bites
+3. You order another round; another plate arrives
+4. Conversation flows freely — there is no rush
+
+This ritual has earned Volos a reputation as the **tsipouro capital of Greece**.
+
+## Economy and Sport
+
+Volos is an important industrial and shipping hub, home to cement works, steel mills, and one of Greece's busiest commercial ports. The city hosted football matches during the **2004 Athens Olympics** at the Panthessaliko Stadium. Local football club **Volos NFC** competes in the Greek Super League.
+
+---
+
+With its mythological past, vibrant food culture, and proximity to Pelion's mountain trails and island ferries, Volos is one of central Greece's most rewarding yet under-visited destinations.
