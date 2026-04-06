@@ -1,7 +1,7 @@
 ---
 title: "Volos: Where Myth Meets the Sea"
 description: "Discover Volos — a vibrant port city at the foot of mythical Mount Pelion, blending ancient legends with modern Greek life."
-pubDate: "Apr 02 2026"
+pubDate: "2026-04-06T03:00:00"
 heroImage: "/volos.jpg"
 ---
 

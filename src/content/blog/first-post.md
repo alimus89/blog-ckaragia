@@ -1,7 +1,7 @@
 ---
 title: "Xanthi: The City of a Thousand Colours"
 description: "A guide to Xanthi, the multicultural gem of Western Thrace known for its old town, carnival, and layered history."
-pubDate: "Mar 15 2026"
+pubDate: "2026-04-06T02:00:00"
 heroImage: "/xanthi.jpg"
 ---
 

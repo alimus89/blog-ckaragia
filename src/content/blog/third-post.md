@@ -1,7 +1,7 @@
 ---
 title: "Greece: Cradle of Western Civilisation"
 description: "An overview of Greece — its ancient heritage, stunning geography, vibrant culture, and enduring influence on the modern world."
-pubDate: "Apr 20 2026"
+pubDate: "2026-04-06T01:00:00"
 heroImage: "/greece.jpg"
 ---
 
